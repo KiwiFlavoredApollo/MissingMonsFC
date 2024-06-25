@@ -1,0 +1,42 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "nihilego-1",
+            "pokemon": "nihilego",
+			"presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "60-80",
+            "weight": 3.8,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "ad_astra:lunar_wastelands"
+					]
+			}
+        },
+        {
+            "id": "nihilego-2",
+            "pokemon": "nihilego",
+			"presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "60-80",
+            "weight": 6.0,
+            "condition": {
+                "biomes": [
+                    "#minecraft:is_end"
+                ]
+			}
+		}
+	]
+}
