@@ -1,0 +1,14 @@
+{
+    "structures": [
+        {
+            "structure": "missingmons:ub01_island",
+            "weight": 1
+        }
+    ],
+    "placement": {
+        "salt": 14,
+        "spacing": 64,
+        "separation": 32,
+        "type": "random_spread"
+    }
+}

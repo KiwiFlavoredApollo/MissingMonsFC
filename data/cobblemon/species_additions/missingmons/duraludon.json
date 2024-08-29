@@ -1,6 +1,6 @@
 {
     "target": "cobblemon:duraludon",
-    "baseScale": 2.0,
+    "baseScale": 1.5,
     "hitbox": {
         "width": 1.0,
         "height": 1.3,
@@ -22,6 +22,7 @@
             "canLook": false,
             "walk": {
                 "canWalk": true,
+				"walkSpeed": 0.180,
                 "avoidsLand": false
             },
             "swim": {
@@ -30,5 +31,24 @@
                 "canBreatheUnderwater": false
             }
         }
-    }
+    },
+	    "evolutions": [
+        {
+            "id": "duraludon_archaludon",
+            "variant": "level_up",
+            "result": "archaludon",
+            "consumeHeldItem": false,
+            "learnableMoves": [],
+			"requirements": [
+			{
+          "variant": "held_item",
+          "itemCondition": "cobblemon:metal_coat"
+			},
+			{
+          "variant": "level",
+          "minLevel": 1
+			}
+            ]
+        }
+    ]
 }

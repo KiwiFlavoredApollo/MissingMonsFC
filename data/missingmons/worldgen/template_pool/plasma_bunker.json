@@ -1,0 +1,15 @@
+{
+    "name": "missingmons:plasma_bunker",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "location": "missingmons:plasma_bunker/plasma_bunker",
+                "processors": "minecraft:empty",
+                "projection": "rigid",
+                "element_type": "minecraft:single_pool_element"
+            }
+        }
+    ]
+}

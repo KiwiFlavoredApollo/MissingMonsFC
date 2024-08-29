@@ -20,35 +20,10 @@
             }
         }
     },
-    "forms": [
-        {
-            "name": "galarian",
-            "primaryType": "ghost",
-					"aspects": [
-			"galarian"
-		],
-            "evolutions": [
-                {
-                    "id": "corsola_cursola",
-                    "variant": "level_up",
-                    "result": "cursola",
-                    "consumeHeldItem": false,
-                    "learnableMoves": [],
-                    "requirements": [
-                        {
-                            "variant": "level",
-                            "minLevel": 38
-                        }
-                    ]
-                }
-            ]
-        }
-    ],
     "baseScale": 0.6,
     "hitbox": {
-        "width": 0.5,
-        "height": 0.8,
+        "width": 0.6,
+        "height": 0.6,
         "fixed": false
-    },
-	"features": ["galarian"]
+    }
 }

@@ -105,7 +105,9 @@
 		"tm:lashout"
     ],
     "labels": [
-        "custom"
+        "custom",
+        "gen9",
+        "legendary"
     ],
     "pokedex": [
         "cobblemon.species.ogerponteal.desc1",

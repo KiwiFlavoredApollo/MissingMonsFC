@@ -11,7 +11,7 @@
             "id": "poltchageist_sinistcha",
             "variant": "level_up",
             "result": "sinistcha",
-            "consumeHeldItem": true,
+            "consumeHeldItem": false,
             "learnableMoves": [],
 			"requirements": [
 			{

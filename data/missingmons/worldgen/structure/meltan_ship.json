@@ -1,0 +1,37 @@
+{
+    "biomes": [
+        "minecraft:lukewarm_ocean"
+    ],
+    "adapt_noise": true,
+    "spawn_overrides": {},
+    "type": "minecraft:jigsaw",
+    "terrain_adaptation": "terrain_matching",
+    "start_pool": "missingmons:meltan_ship",
+    "size": 1,
+    "step": "surface_structures",
+    "start_height": {
+        "absolute": -3
+    },
+    "project_start_to_heightmap": "WORLD_SURFACE_WG",
+    "max_distance_from_center": 116,
+    "use_expansion_hack": false,
+    "placement": {
+        "spacing": 80,
+        "separation": 40,
+        "salt": 1986
+    },
+    "conditions": [
+        {
+            "condition": "minecraft:location_check",
+            "predicate": {
+                "block": {
+                    "tag": "minecraft:water"
+                }
+            }
+        }
+    ]
+}
+
+
+
+
