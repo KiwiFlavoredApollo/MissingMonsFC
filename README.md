@@ -1,6 +1,6 @@
 # README
 
-- [MissingMons](https://modrinth.com/datapack/missingmons-cobblemon) v2.8 Bon Appétit 버전을 기반으로 수정
+- [MissingMons](https://modrinth.com/datapack/missingmons-cobblemon) v3.0 Metalic Madness 버전을 기반으로 수정
 - removed Paradox, Mythical, Legendary, Pseudo-Legendary Pokemons
 
 ## Disclaimer
