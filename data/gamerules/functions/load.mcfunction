@@ -1,3 +1,0 @@
-gamerule commandBlockOutput false
-scoreboard objectives add lightning_rods_destroyed minecraft.mined:minecraft.lightning_rod
-
