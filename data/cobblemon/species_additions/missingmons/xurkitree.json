@@ -1,9 +1,9 @@
 {
-    "target": "blacephalon",
-    "baseScale": 0.4,
+    "target": "xurkitree",
+    "baseScale": 0.9,
     "hitbox": {
         "width": 2.0,
-        "height": 4.3,
+        "height": 6.0,
         "fixed": false
     },
 	    "drops": {

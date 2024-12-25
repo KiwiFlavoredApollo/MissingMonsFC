@@ -15,7 +15,7 @@
             },
             "swim": {
                 "swimSpeed": 0.1,
-                "canSwimInWater": false,
+                "canSwimInWater": true,
                 "canBreatheUnderwater": false
             },
 			"fly": {
